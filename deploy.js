@@ -6,7 +6,7 @@ var cmd = require('node-cmd'),
     ssh = new node_ssh();
 
 //Configuration
-var repo = 'hackathon-starter';
+var repo = 'starter-node-angular';
 var repoPath = 'https://github.com/Xuroth/starter-node-angular.git';
 var remotePath = '/home/ubuntu';
 var server = '18.221.127.143';
